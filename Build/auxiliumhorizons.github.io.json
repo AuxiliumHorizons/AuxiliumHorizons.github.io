@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "auxiliumhorizons.github.io.data.unityweb",
+"asmCodeUrl": "auxiliumhorizons.github.io.asm.code.unityweb",
+"asmMemoryUrl": "auxiliumhorizons.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "auxiliumhorizons.github.io.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
