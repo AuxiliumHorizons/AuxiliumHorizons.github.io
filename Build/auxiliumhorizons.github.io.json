@@ -1,9 +1,13 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "DefaultCompany",
+"productName": "GoooseTest",
 "dataUrl": "auxiliumhorizons.github.io.data.unityweb",
 "asmCodeUrl": "auxiliumhorizons.github.io.asm.code.unityweb",
 "asmMemoryUrl": "auxiliumhorizons.github.io.asm.memory.unityweb",
 "asmFrameworkUrl": "auxiliumhorizons.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
