@@ -1,0 +1,87 @@
+Key,English,French,Spanish
+PlaySpace1_1,Start,Début,Comienzo
+PlaySpace1_2,,,
+PlaySpace2_1,Good Luck,Bonne chance,Buena suerte
+PlaySpace2_2,,,
+PlaySpace3_1,Self Esteem,Amour propre,Autoestima
+PlaySpace3_2,Looking Good,Vous cherchez bien,Luciendo bien
+PlaySpace4_1,,,
+PlaySpace4_2,Skill,Compétence,Habilidad
+PlaySpace5_1,Danger,Danger,Peligro
+PlaySpace5_2,Brake Trouble,Problème de frein,Problemas de frenos
+PlaySpace6_1,,,
+PlaySpace6_2,Praise,Louange,Alabanza
+PlaySpace7_1,,,
+PlaySpace7_2,Make a Wish,Faire un vœu,Pide un deseo
+PlaySpace8_1,,,
+PlaySpace8_2,Friends & Good Times,Amis et bons moments,Amigos y buenos tiempos
+PlaySpace9_1,,,
+PlaySpace9_2,Blown Tire,Pneu soufflé,Blown Tire
+PlaySpace10_1,,,
+PlaySpace10_2,Power,Puissance,Poder
+PlaySpace11_1,Roll Again,Recommencez,Lanza otra vez
+PlaySpace11_2,Happy Day,Bonne journée,Día feliz
+PlaySpace12_1,,,
+PlaySpace12_2,Engine Trouble,Un problème de moteur,Problemas de motor
+PlaySpace13_1,,,
+PlaySpace13_2,Hope,Espérer,Esperanza
+PlaySpace14_1,,,
+PlaySpace14_2,Success,Succès,Éxito
+PlaySpace15_1,Self Esteem,Amour propre,Autoestima
+PlaySpace15_2,Big Smile,Grand sourire,Gran sonrisa
+PlaySpace16_1,,,
+PlaySpace16_2,Confidence,Confiance,Confianza
+PlaySpace17_1,,,
+PlaySpace17_2,Good Judgment,Bon jugement,Buen juicio
+PlaySpace18_1,,,
+PlaySpace18_2,Take a Rest,Repose toi un peu,Descansar
+PlaySpace19_1,,,
+PlaySpace19_2,Respect,Le respect,El respeto
+PlaySpace20_1,Accident on Road,Accident sur route,Accidente en carretera
+PlaySpace20_2,Go Back 5 squares,Retour 5 carrés,Retrocede 5 cuadrados
+PlaySpace21_1,Roll Again,Recommencez,Lanza otra vez
+PlaySpace21_2,Congratulations,Toutes nos félicitations,Felicitaciones
+PlaySpace22_1,,,
+PlaySpace22_2,Big Dreams,Gros rêves,Sueños grandes
+PlaySpace23_1,Detour,Deviation,Desvío
+PlaySpace23_2,Go Back 2 squares,Retour 2 carrés,Retrocede 2 cuadrados
+PlaySpace24_1,,,
+PlaySpace24_2,Pride,Fierté,Orgullo
+PlaySpace25_1,,,
+PlaySpace25_2,Satisfaction,la satisfaction,Satisfacción
+PlaySpace26_1,,,
+PlaySpace26_2,Compliments,Compliments,Felicitaciones
+PlaySpace27_1,,,
+PlaySpace27_2,Admiration,Admiration,Admiración
+PlaySpace28_1,Roll Again,Recommencez,Lanza otra vez
+PlaySpace28_2,Feeling Special,Se sentir special,Sentirse especial
+PlaySpace29_1,Self Esteem,Amour propre,Autoestima
+PlaySpace29_2,Feeling Good,Se sentir bien,Sentirse bien
+PlaySpace30_1,,,
+PlaySpace30_2,Make a Wish,Faire un vœu,Pide un deseo
+PlaySpace31_1,,,
+PlaySpace31_2,Courage,Courage,Valor
+PlaySpace32_1,Go Back 4 roll again,Revenez 4 rouler à nouveau,Volver 4 vuelven a rodar
+PlaySpace32_2,Goals,Buts,Metas
+PlaySpace33_1,Finish,terminer,Terminar
+PlaySpace34_1,,,
+PlaySpace34_2,,,
+PlaySpace_Garage,Bud's Garage,Bud's Garage,Garaje de Bud
+PlaySpace_GotoGarage,Go to Bud's Garage,Aller à Bud's Garage,Ir al Garaje de Bud
+PlaySpace_PitStop,Barb & Ernie's Pit Stop,Barb et Ernie's Pit Stop,Barb & Ernie's Pit Stop
+PlaySpace_GotoPitStop,Go to Barb & Ernie's,Allez à Barb et Ernie,Ve a Barb & Ernie's
+PlaySpace_Snack,Irma's Snack & Rest,Irma's Snack & Rest,Snack & Rest de Irma
+PlaySpace_GotoSnack,Go to Irma's Place,Aller à la place de Irma,Ir a la casa de Irma
+PlaySpace_ShortCut,Short Cut,Coupe courte,Atajo
+,,,
+RollDice,Roll the Dice,Lancer les dés,Tirar los dados
+Rolled,Rolled,Roulé,Arrollado
+Click,Click to Continue,Cliquez pour continuer,Haz click para continuar
+Winner,Winner,Gagnant,Ganador
+GoBackGarage,Go Back to Garage,Retournez au garage,Regresar al garaje
+AccidentDesc,Talk about an 'accident' or when you were delayed or had to wait for something and then tell about what it feels like when you feel good about yourself.,Parlez d'un 'accident' ou lorsque vous avez été retardé ou avez dû attendre quelque chose et ensuite dire ce que vous ressentez lorsque vous vous sentez bien dans votre peau.,Hable de un 'accidente' o cuando se haya retrasado o haya tenido que esperar por algo y luego cuéntele cómo se siente cuando se siente bien consigo mismo.
+DetourDesc,Talk about a 'detour' you have had to take and then congratulate yourself or someone else.,Parlez d'un 'détour' que vous avez dû prendre et félicitez-vous ou quelqu'un d'autre.,Habla sobre un 'desvío' que has tenido que tomar y luego felicítate a ti mismo o a alguien más.
+GoalsDesc,Talk about a goal you have and then tell about something you feel special about.,Parlez d'un objectif que vous avez et parlez ensuite de quelque chose qui vous semble spécial.,Habla sobre un objetivo que tienes y luego cuéntale algo sobre lo que te sientas especial.
+GarageDesc,Talk about some problem you or somebody else had.,Parlez de certains problèmes que vous ou quelqu'un d'autre avez eu.,Habla sobre algún problema que tú u otra persona tuviste.
+PitStopDesc,Talk about a time when you couldn't quite get what you wanted.,Parlez d'une époque où vous ne pouviez pas vraiment obtenir ce que vous vouliez.,Habla de un momento en el que no podías obtener lo que querías.
+StdSpaceDesc,Talk about or tell a story or 'enact' or demonstrate the concept:,Parler ou raconter une histoire ou 'adopter' ou démontrer le concept:,Hablar o contar una historia o 'representar' o demostrar el concepto:
