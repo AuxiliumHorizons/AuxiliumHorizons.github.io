@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "DB2",
+"productName": "CurvedText",
 "dataUrl": "DBTest.data.unityweb",
 "asmCodeUrl": "DBTest.asm.code.unityweb",
 "asmMemoryUrl": "DBTest.asm.memory.unityweb",
