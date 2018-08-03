@@ -1,5 +1,5 @@
 ﻿Key,English,French,Spanish
-PlaySpace1,Start,Début,Comenzar
+PlaySpace1,START,DÉBUT,COMIENZO
 PlaySpace2,EXCITED,EXCITÉ,EMOCIONADO
 PlaySpace3,ANGRY,EN COLÈRE,ENOJADO
 PlaySpace4,HAPPY,CONTENT,FELIZ
@@ -33,10 +33,12 @@ PlaySpace31,GRUMPY,GRINCHEUX,GRUÑÓN
 PlaySpace32,UNHAPPY,MALHEUREUX,INFELIZ
 PlaySpace33,,,
 PlaySpace34,GOOD,BIEN,BUENO
-PlaySpace35,HAPPY,CONTENT,FELIZ
-PlaySpace36,FINISH,TERMINER,TERMINAR
+PlaySpace35,,,
+PlaySpace36,HAPPY,CONTENT,FELIZ
+PlaySpace37,FINISH,TERMINER,TERMINAR
 RollDice,Roll the Dice,Lancer les dés,Tirar los dados
 Rolled,Rolled,Roulé,Enrollado
 Winner,Winner,Gagnant,Ganador
 Talk,Talk about ,Parler de,Hablar de
 Click,Click to Continue,Cliquez pour Continuer,Click para Continuar
+Title,Tell a story or talk about:,Racontez une histoire ou parlez de:,Cuenta una historia o habla sobre:
