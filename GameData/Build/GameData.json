@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "ScrollView",
+"productName": "GameSetupREST",
 "dataUrl": "GameData.data.unityweb",
 "asmCodeUrl": "GameData.asm.code.unityweb",
 "asmMemoryUrl": "GameData.asm.memory.unityweb",
