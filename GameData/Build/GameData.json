@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "GameSetupREST",
+"productName": "AllGames",
 "dataUrl": "GameData.data.unityweb",
 "asmCodeUrl": "GameData.asm.code.unityweb",
 "asmMemoryUrl": "GameData.asm.memory.unityweb",
